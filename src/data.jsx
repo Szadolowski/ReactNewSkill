@@ -1,39 +1,39 @@
-const Person = [
+const person = [
   {
-    numer: "123-456-789",
-    imie: "Jan",
-    miejsce: "Warszawa",
+    number: "123456789",
+    name: "Jan",
+    city: "Warszawa",
   },
   {
-    numer: "987-654-321",
-    imie: "Anna",
-    miejsce: "Kraków",
+    number: "987654321",
+    name: "Anna",
+    city: "Kraków",
   },
   {
-    numer: "555-123-456",
-    imie: "Kamil",
+    number: "555123456",
+    name: "Kamil",
   },
   {
-    numer: "777-888-999",
-    imie: "Karolina",
-    miejsce: "Gdańsk",
+    number: "777888999",
+    name: "Karolina",
+    city: "Gdańsk",
   },
   {
-    numer: "111-222-333",
-    imie: "Piotr",
+    number: "111222333",
+    name: "Piotr",
   },
   {
-    numer: "444-555-666",
-    imie: "Magda",
+    number: "444555666",
+    name: "Magda",
   },
   {
-    numer: "222-333-444",
-    imie: "Michał",
+    number: "222333444",
+    name: "Michał",
   },
   {
-    numer: "999-888-777",
-    imie: "Alicja",
+    number: "999888777",
+    name: "Alicja",
   },
 ];
 
-export default Person;
+export default person;
